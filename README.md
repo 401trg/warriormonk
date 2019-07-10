@@ -1,4 +1,4 @@
-# Warrior Monk 
+# WarriorMonk 
 
 WarriorMonk is an analyst-focused browser extension for quick pivoting and other useful tools. 
 
