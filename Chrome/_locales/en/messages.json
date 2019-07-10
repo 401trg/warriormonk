@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "WarriorMonk",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "A quick way for Analysts to easily search strings in various browser based resources.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemOpenSidebar": {
+    "message": "---Quick Notes---",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+
+  "menuItemToolsMenu": {
+    "message": "Click me",
+    "description": "Title of tools menu item."
+  }
+
+}

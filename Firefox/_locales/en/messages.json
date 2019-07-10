@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "WarriorMonk",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Analyst quick notes and a way to easily search strings in various browser based resources, created by your friends at ProtectWise 401TRG.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemOpenSidebar": {
+    "message": "---Quick Notes---",
+    "description": "Title of context menu item that opens a sidebar."
+  },
+
+  "menuItemToolsMenu": {
+    "message": "Click me",
+    "description": "Title of tools menu item."
+  }
+
+}
