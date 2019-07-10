@@ -48,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Tom Hegel** - *Initial Author* 
+* **[Tom Hegel](https://twitter.com/MalwareKiwi?lang=en)** - *Initial Author* 
 
 ## License
 
