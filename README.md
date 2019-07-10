@@ -14,7 +14,7 @@ You will need a recent version of Chrome [installed](https://www.google.com/chro
 
 ***- Firefox***
 
-You will need a recent version of Chrome [installed](https://www.google.com/chrome).
+You will need a recent version of Firefox [installed](https://www.mozilla.org/en-US/firefox/new).
 
 ### Installing
 
