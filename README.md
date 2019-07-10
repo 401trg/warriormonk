@@ -37,8 +37,7 @@ Install plugin locally on Firefox:
 Navigate to: `about:debugging` -> Load Temporary Add-on -> _Select uncompressed zip with extension xpi_
 
 ## Deployment
-
-You can upload your customized version of WarriorMonk by following these walk-throughs:
+If a pull request is accepted then the extension will be rolled out to each browser's webstore/workshop. You can also upload your customized version of WarriorMonk by following these walk-throughs:
 - [Chrome](https://developer.chrome.com/webstore/publish)
 - [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Distribution/Submitting_an_add-on)
 
