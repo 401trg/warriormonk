@@ -43,7 +43,7 @@ If a pull request is accepted then the extension will be rolled out to each brow
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases on this repository](https://github.com/401trg/warriormonk/releases). 
 
 ## Authors
 
