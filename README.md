@@ -21,7 +21,7 @@ You will need a recent version of Firefox [installed](https://www.mozilla.org/en
 Clone the github repo:
 
 ```
-git clone https://gitlab.int.protectwise.net/threat/WarriorMonk.git
+git clone https://github.com/401trg/warriormonk.git
 ```
 
 ***- Chrome***
